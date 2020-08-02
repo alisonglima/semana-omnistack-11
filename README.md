@@ -18,7 +18,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-Project developed during RocketSeat's OmniStack 11.0 Week, based on the NodeJs, ReactJs and React Native stack. This project aims to connect NGOs that need help with people who are willing to help them.
+Project developed during RocketSeat's OmniStack 11.0 Week, based on the NodeJs, ReactJs and React Native stack. This project aims to connect ONGs that need help with people who are willing to help them.
 
 ## <img src="https://raw.githubusercontent.com/alisonglima/semana-omnistack-7/master/heroku-logo.png" alt="Heroku" width="35"/> Deploy 
 
